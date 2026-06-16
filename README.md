@@ -1,8 +1,8 @@
 # Hi, I'm Tanishqua Verma 👋
 
-Software Engineer with 1 year of experience at IBM, working on build systems,
-packaging automation, and cross-architecture infrastructure.
-ECE grad from NSUT Delhi, building at the intersection of backend and DevOps.
+Backend Engineer | Go · Python · C++ | ex-IBM
+
+Software Engineer with 1 year of IBM experience delivering production-grade backend infrastructure for enterprise AI at scale. I build reliable, distributed systems from automating WatsonX.ai's GenAI deployment pipeline at IBM to independently architecting Hermes, a distributed task queue in Go. Driven by a bias toward building things that cannot afford to fail.
 
 ---
 
@@ -37,17 +37,18 @@ ECE grad from NSUT Delhi, building at the intersection of backend and DevOps.
 
 | Project | Stack | Description |
 |---|---|---|
-| [Memories](https://github.com/Tanishqua23/Memories-Social-Media-Website) | MERN | Social media app with Google OAuth & post management |
-| [Note Making App](https://github.com/Tanishqua23/Note-Making-MERN) | MERN | Clean note manager with rich text & CRUD |
+| [Hermes](https://github.com/Tanishqua23/Hermes) | Go, Redis, PostgreSQL, React, Docker | Distributed task queue with at-least-once delivery, priority scheduling across 3 queue lanes, and a live React observability dashboard |
+| [Gitpulse](https://github.com/Tanishqua23/Gitpulse) | Go, GitHub REST API, Bubble Tea, Lip Gloss| Terminal developer dashboard with async non-blocking architecture consuming live GitHub profile, repo, and activity data |
 | [Churn Prediction](https://github.com/Tanishqua23/Customer-churn-prediction) | Python, ML | Telecom customer churn classifier with EDA & feature engineering |
 
 ---
 
 ## 📌 A Bit More
 
-- 🏢 Previously @ **IBM** — enabled Milvus on s390x for WatsonX.ai & built Python packaging automation
-- 🎓 B.Tech ECE, NSUT Delhi '25
-- ⚡ Fun fact: I've patched assembly-level code on IBM mainframe architecture 🖥️
+- 🏢 Previously @ **IBM** — cut build pipeline setup time by 98%, directly unblocking WatsonX.ai's enterprise GenAI deployment across 540+ packages
+- 🌍 Ported 170+ packages (Go and C++) to IBM s390x mainframe architecture with zero prior documentation or precedent
+- 🔨 I build things independently because the problem is worth solving — Hermes exists because I wanted to understand what reliable async systems look like from the inside
+- 📍 Based in India | Open to backend engineering roles in Bangalore or remote
 
 ---
 
